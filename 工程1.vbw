@@ -1,0 +1,14 @@
+Form1 = 44, 49, 659, 390, , 22, 22, 637, 368, C
+frmOpenFile = 88, 88, 703, 434, , 66, 66, 681, 412, C
+frmSaveFile = 154, 154, 769, 500, Z, 110, 110, 725, 456, C
+Form2 = 88, 88, 703, 434, , 66, 66, 681, 412, C
+FrmSaveConverted = 0, 0, 615, 346, , 110, 110, 725, 456, C
+frmAbout = 154, 154, 745, 492, , 132, 132, 723, 470, C
+frmAlphaIconCreator = 0, 0, 883, 460, , 198, 198, 1081, 658, C
+mMain = 0, 0, 0, 0, C
+MDrawWaves = 0, 0, 0, 0, C
+MCDHook = 0, 0, 0, 0, C
+cAlphaDIBSection = 0, 0, 0, 0, C
+cFileIcon = 0, 0, 0, 0, C
+cCommonDialogLite = 0, 0, 0, 0, C
+CCommonDialog = 0, 0, 0, 0, C

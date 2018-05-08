@@ -1,0 +1,5 @@
+frmAlphaIconCreator = 88, 88, 480, 532, C, 22, 22, 534, 466, C
+cAlphaDIBSection = 0, 0, 0, 0, C
+cFileIcon = 66, 66, 458, 510, C
+cCommonDialog = 0, 0, 0, 0, C
+mMain = 0, 0, 0, 0, C

@@ -1,0 +1,15 @@
+frmConvertMain = 0, 0, 0, 0, C, 44, 44, 927, 504, C
+CCommonDialog = 0, 0, 0, 0, C
+MCDHook = 0, 0, 0, 0, C
+MDrawWaves = 0, 0, 0, 0, C
+Form2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Form1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOpenFile = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmSaveConverted = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSaveFile = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+cAlphaDIBSection = 0, 0, 0, 0, C
+cFileIcon = 0, 0, 0, 0, C
+mMain = 0, 0, 0, 0, C
+frmAlphaIconCreator = 0, 0, 0, 0, C, 22, 22, 905, 482, C
+cCommonDialogLite = 0, 0, 0, 0, C
